@@ -23,6 +23,17 @@ public class Demo6
 		 System.out.println("Hello M2");
 	}
 	
+	public void add()
+	{
+		 System.out.println("Hello Add");
+	}
+	
+	public void sub()
+	{
+		 System.out.println("Hello Sub");
+	}
+	
+	
 	
 	
 	
