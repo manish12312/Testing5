@@ -9,6 +9,8 @@ public class Demo6
 		Demo6 d=new Demo6();
 		d.m1();
 		d.m2();
+		d.add();
+		d.sub();
 		
              
 	}
